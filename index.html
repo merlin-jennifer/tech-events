@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tech Events near me</title>
+<style>
+  :root {
+    --bg: #f6f7fb; --card: #ffffff; --line: #e3e6ee;
+    --text: #1a1d29; --muted: #667085; --accent: #2563eb;
+    --shadow: 0 1px 2px rgba(16, 24, 40, .04), 0 1px 3px rgba(16, 24, 40, .08);
+    --shadow-hover: 0 4px 10px rgba(16, 24, 40, .08), 0 2px 4px rgba(16, 24, 40, .06);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+  }
+  header {
+    padding: 24px 24px 24px; max-width: 1100px; margin: 0 auto; text-align: center;
+  }
+  header h1 { margin: 0 0 8px; font-size: 2rem; }
+  header p { margin: 4px 0; color: var(--muted); }
+  .count { color: var(--accent); font-weight: 600; }
+  .topbar {
+    max-width: 1100px; margin: 0 auto; padding: 20px 24px 0;
+    display: flex; justify-content: center;
+  }
+  .topbar a {
+    display: inline-flex; align-items: center; gap: 8px; max-width: 100%;
+    background: var(--card); border: 1px solid var(--line); color: var(--text);
+    text-decoration: none; font-size: .8rem; font-weight: 600;
+    padding: 8px 16px; border-radius: 999px; transition: .15s; box-shadow: var(--shadow);
+  }
+  .topbar a:hover { border-color: var(--accent); color: var(--accent); box-shadow: var(--shadow-hover); }
+  @media (max-width: 480px) {
+    .topbar a { text-align: center; white-space: normal; }
+  }
+  main {
+    max-width: 1100px; margin: 0 auto; padding: 16px 24px 64px;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 18px; text-decoration: none; color: inherit; transition: .15s;
+    display: flex; flex-direction: column; gap: 6px; box-shadow: var(--shadow);
+  }
+  .card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+  .card-top { display: flex; justify-content: space-between; align-items: center; }
+  .card h2 { font-size: 1.1rem; margin: 4px 0; }
+  .meta { margin: 0; color: var(--muted); font-size: .9rem; }
+  .state { font-size: .72rem; font-weight: 700; padding: 3px 8px; border-radius: 20px; }
+  .state.upcoming { background: #dbeafe; color: #1d4ed8; }
+  .state.open { background: #dcfce7; color: #15803d; }
+  .src { font-size: .72rem; color: var(--muted); }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .tag { background: #f1f5f9; color: #475569; font-size: .72rem;
+          padding: 3px 8px; border-radius: 6px; }
+  .prize {
+    margin-top: 8px; font-size: .85rem; font-weight: 600; color: #92400e;
+    background: #fef3c7; display: inline-block; padding: 3px 10px; border-radius: 6px;
+    align-self: flex-start;
+  }
+  .empty { grid-column: 1/-1; text-align: center; color: var(--muted); padding: 40px; }
+  footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }
+  code { background: #f1f5f9; color: var(--text); padding: 2px 6px; border-radius: 4px; }
+  .filters {
+    max-width: 1100px; margin: 0 auto; padding: 4px 24px 0;
+    display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+  }
+  .filter-btn {
+    background: var(--card); border: 1px solid var(--line); color: var(--muted);
+    font: inherit; font-size: .82rem; font-weight: 600; cursor: pointer;
+    padding: 6px 14px; border-radius: 999px; transition: .15s;
+  }
+  .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <a href="https://github.com/VamikaSinghal/tech-events-tracker" target="_blank" rel="noopener">
+      🚀 Go to my GitHub repo to find events for your city
+    </a>
+  </div>
+  <header>
+    <h1>Tech Events near me</h1>
+    <p>Hackathons, tech &amp; startup events, updated daily</p>
+    <p>Showing <span class="count" id="event-count">25</span> events for <strong>San Francisco</strong></p>
+    <p style="font-size:.8rem">Last updated Jul 09, 2026 at 8:54 AM PDT</p>
+  </header>
+  <div class="filters">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="ai">AI</button><button class="filter-btn" data-filter="hardware">Hardware</button><button class="filter-btn" data-filter="hackathons">Hackathons</button>
+  </div>
+  <main>
+    
+        <a class="card" data-categories="ai" href="https://www.meetup.com/cloud-data-driven/events/315242054/" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Meetup</span>
+          </div>
+          <h2>AI Governance for Cloud Data Platforms: From Policy to Practice</h2>
+          <p class="meta">📍 Online</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 12:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://www.meetup.com/atlanta-azure-data-user-group/events/315397629/" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Meetup</span>
+          </div>
+          <h2>SQL Community Engineering: Modernizing SQL DevOps with New T-SQL Capabilities</h2>
+          <p class="meta">📍 Online</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 12:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://www.meetup.com/technology-ai/events/315347084/" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Meetup</span>
+          </div>
+          <h2>AI-Assisted Data Engineering: Turning Metadata into Production-Ready Artifacts</h2>
+          <p class="meta">📍 Online</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 6:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://lu.ma/future-of-us-art-and-tech" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Art &amp; Tech at SFMOMA</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 3:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/vadtl2sj" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>The Engineering Roles That Will Matter In The AI Era By Thine AI</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 5:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://lu.ma/ondevice" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>On-Device Night | Founders Building Local Agents by AGI, Inc.</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 5:30 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="hardware" href="https://lu.ma/bo58tyyg" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>135th SF Hardware Meetup @ Antler VC | Demo Night</h2>
+          <p class="meta">📍 San Francisco, California</p>
+          <p class="meta">🗓️ Jul 09, 2026 · 6:30 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://www.meetup.com/aws-sbg-at-sheridan-college/events/315302500/" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Meetup</span>
+          </div>
+          <h2>Build Your First Autonomous AI Agent</h2>
+          <p class="meta">📍 Online</p>
+          <p class="meta">🗓️ Jul 10, 2026 · 6:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="hackathons" href="https://lu.ma/1zwlnq89" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>The Computer Use Agents Hackathon by H Company</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 11, 2026 · 9:00 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/4h3rh9ic" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>局部对齐 Local Alignment · AI×软硬件×桌游Mix聚会</h2>
+          <p class="meta">📍 Santa Clara, CA</p>
+          <p class="meta">🗓️ Jul 11, 2026 · 2:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://lu.ma/td42xz48" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Founders Demo Day @ Corgi Cafe</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 11, 2026 · 4:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="hackathons" href="https://lu.ma/hahahack" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>hahahack | a hackathon for absurd + fun things w/ Codex</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 12, 2026 · 10:00 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://lu.ma/3ilro47w" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>How to Break into SF as an Immigrant Founder</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 12, 2026 · 6:30 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/b8ie1m1s" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Show &amp; Tell: AI for GTM @Notion with Baseten, Cognition and Samsara</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 14, 2026 · 6:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/4esilsg5" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>AI Philosophy Nights: Indifferent Intelligence</h2>
+          <p class="meta">📍 San Francisco, California</p>
+          <p class="meta">🗓️ Jul 14, 2026 · 6:30 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/j7v7qeem" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Battle of the Paddles: AI Builders Edition</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 15, 2026 · 6:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://lu.ma/jrs8v2ms" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Fonzi&#x27;s July Tech Talk</h2>
+          <p class="meta">📍 San Francisco, California</p>
+          <p class="meta">🗓️ Jul 15, 2026 · 6:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/4s00vb76" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>AI x Biosecurity — LatchBio Benchmark Launch</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 16, 2026 · 6:00 PM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://lu.ma/oym92m2s" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>GTLC Bay Area Chinese Tech Leaders Summit</h2>
+          <p class="meta">📍 San Jose, CA</p>
+          <p class="meta">🗓️ Jul 17, 2026 · 9:00 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="hackathons" href="https://lu.ma/loophack" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Loop Engineering Hackathon</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 17, 2026 · 9:30 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai hackathons" href="https://lu.ma/fmypremp" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>DeepLearning.AI Voice AI Hackathon: The Complete Trip, powered by Sabre and Vocal Bridge</h2>
+          <p class="meta">📍 Mountain View, CA</p>
+          <p class="meta">🗓️ Jul 18, 2026 · 8:00 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="ai" href="https://lu.ma/rklrsomo" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>AI Valley x Pet Zen Dog-a-thon</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 18, 2026 · 9:00 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="" href="https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Meetup</span>
+          </div>
+          <h2>Free Cloud Engineering Bootcamp 2026 | AWS, DevOps &amp; Kubernetes</h2>
+          <p class="meta">📍 Online</p>
+          <p class="meta">🗓️ Jul 22, 2026 · 10:30 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="hackathons" href="https://lu.ma/swarmhack" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Luma</span>
+          </div>
+          <h2>Agent Swarms Hackathon</h2>
+          <p class="meta">📍 San Francisco, CA</p>
+          <p class="meta">🗓️ Jul 24, 2026 · 9:30 AM</p>
+          <div class="tags"></div>
+          
+        </a>
+        <a class="card" data-categories="hackathons" href="https://showerhacks.devpost.com/" target="_blank" rel="noopener">
+          <div class="card-top">
+            <span class="state upcoming">Upcoming</span>
+            <span class="src">Devpost</span>
+          </div>
+          <h2>Shower Hacks</h2>
+          <p class="meta">📍 Bay Area</p>
+          <p class="meta">🗓️ Oct 03 - 04, 2026</p>
+          <div class="tags"><span class="tag">Open Ended</span><span class="tag">Lifehacks</span><span class="tag">Social Good</span></div>
+          <span class="prize">💰 $8,000</span>
+        </a>
+  </main>
+  <footer>
+    Built automatically with GitHub Actions · Data from Devpost, Luma, Eventbrite &amp; Meetup
+  </footer>
+  <script>
+    (function () {
+      var buttons = document.querySelectorAll(".filter-btn");
+      var cards = document.querySelectorAll(".card");
+      var countEl = document.getElementById("event-count");
+      buttons.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          buttons.forEach(function (b) { b.classList.remove("active"); });
+          btn.classList.add("active");
+          var filter = btn.dataset.filter;
+          var visible = 0;
+          cards.forEach(function (card) {
+            var match = filter === "all" || (card.dataset.categories || "").split(" ").indexOf(filter) !== -1;
+            card.style.display = match ? "" : "none";
+            if (match) visible++;
+          });
+          if (countEl) countEl.textContent = visible;
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
