@@ -1,9 +1,9 @@
 {
-  "city": "San Francisco",
-  "keywords": ["ai", "startup", "web3", "fintech", "hardware", "climate"],
+  "city": "Chennai",
+  "keywords": ["ai", "startup", "web3", "fintech", "hardware", "climate", "business" ],
   "site_title": "Tech Events near me",
   "site_subtitle": "Hackathons, tech & startup events, updated daily",
-  "repo_url": "https://github.com/VamikaSinghal/tech-events-tracker",
+  "repo_url": "https://github.com/merlin-jennifer/tech-events",
   "max_pages": 6,
   "luma_max_events": 80,
   "eventbrite_max_pages": 3,
