@@ -656,9 +656,16 @@ def filter_events(events, config):
     # extra_luma_calendars is exempt — you already hand-picked that source.
     broad_keywords = list({*keywords, *GENERIC_TECH_KEYWORDS})
 
+    # Allowed locations (your city + online)
+    allowed_locations = [
+    config.get("city", "").lower(),
+    "online"
+    ]
+    
     kept = []
     seen_urls = set()
     seen_titles = set()
+    
     for ev in events:
         # Drop anything already finished.
         if ev["state"] == "ended":
@@ -682,6 +689,11 @@ def filter_events(events, config):
             if not keyword_match(haystack, broad_keywords):
                 continue
         elif require_kw and keywords and not keyword_match(haystack, keywords):
+            continue
+        # Filter out events that aren't in your city (except online events)
+        location = ev["location"].lower()
+
+        if not any(place in location for place in allowed_locations):
             continue
 
         seen_urls.add(ev["url"])
