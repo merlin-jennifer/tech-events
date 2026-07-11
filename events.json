@@ -1,58 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "Build Your First Autonomous AI Agent",
-    "url": "https://www.meetup.com/aws-sbg-at-sheridan-college/events/315302500/",
-    "location": "Online",
-    "dates": "Jul 10, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-10 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AWS SBG at Sheridan College",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE EVENT OPEN TO ALL: Come Learn to Build Your Own AI Voice Agent/Receptionist",
-    "url": "https://www.meetup.com/ladies-in-ai/events/315497480/",
-    "location": "Online",
-    "dates": "Jul 14, 2026 \u00b7 7:15 PM",
-    "sort_date": "2026-07-14 19:15:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Ladies in AI",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Coding Agent Harness: Plan With Frontier Models, Execute in 90% Less Time",
-    "url": "https://www.meetup.com/data-science-dojo-washington-dc/events/315481616/",
-    "location": "Online",
-    "dates": "Jul 15, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-15 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Data Science Dojo - DC",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Fabric engineering: Fabric Data Warehouse billing & price performance",
-    "url": "https://www.meetup.com/atlanta-azure-data-user-group/events/315571161/",
-    "location": "Online",
-    "dates": "Jul 16, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-16 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Atlanta Azure Data User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI Agents Are Here \u2014 Learn How to Deploy on AWS (Hands-On Workshop)",
     "url": "https://www.meetup.com/aws-houston/events/315209050/",
     "location": "Online",
@@ -62,19 +10,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Houston Amazon Web Services (AWS) Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE REMOTE | LADIES IN AI - We Learn. We Share. We Laugh.",
-    "url": "https://www.meetup.com/ladies-in-ai/events/315016393/",
-    "location": "Online",
-    "dates": "Jul 23, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-23 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Ladies in AI",
     "curated": false
   }
 ]
