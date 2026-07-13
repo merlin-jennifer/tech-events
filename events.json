@@ -1,6 +1,32 @@
 [
   {
     "source": "Meetup",
+    "title": "AI in 2026: Layoffs and Preparing for the AI Job Market",
+    "url": "https://www.meetup.com/humansoulai/events/314917560/",
+    "location": "Online",
+    "dates": "Jul 14, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-14 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for North America",
+    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315575690/",
+    "location": "Online",
+    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-22 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Machine Learning_ML Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "AI Agents Are Here \u2014 Learn How to Deploy on AWS (Hands-On Workshop)",
     "url": "https://www.meetup.com/aws-houston/events/315209050/",
     "location": "Online",
