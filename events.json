@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/315398911/",
+    "location": "Online",
+    "dates": "Jul 14, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-14 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Diego Tech Coffee",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "AI in 2026: Layoffs and Preparing for the AI Job Market",
     "url": "https://www.meetup.com/humansoulai/events/314917560/",
     "location": "Online",
@@ -14,15 +27,41 @@
   },
   {
     "source": "Meetup",
-    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for North America",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315575690/",
+    "title": "FREE EVENT OPEN TO ALL: Come Learn to Build Your Own AI Voice Agent/Receptionist",
+    "url": "https://www.meetup.com/ladies-in-ai/events/315497480/",
     "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-22 12:00:00",
+    "dates": "Jul 14, 2026 \u00b7 7:15 PM",
+    "sort_date": "2026-07-14 19:15:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
+    "organization": "Ladies in AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Architecting Agentic AI Business Solutions with Microsoft AI",
+    "url": "https://www.meetup.com/los-angeles-city-business-and-technology-meetup/events/315587407/",
+    "location": "Online",
+    "dates": "Jul 15, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-15 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Los Angeles City Business and Technology Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Fabric engineering: Fabric Data Warehouse billing & price performance",
+    "url": "https://www.meetup.com/atlanta-azure-data-user-group/events/315571161/",
+    "location": "Online",
+    "dates": "Jul 16, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-16 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Atlanta Azure Data User Group",
     "curated": false
   },
   {
