@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "Claude Cowork Demo: See What AI Can Actually Do With Your Work",
+    "url": "https://www.meetup.com/austin-women-in-agile/events/314876143/",
+    "location": "Online",
+    "dates": "Jul 17, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-17 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Austin Women in Agile",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "AI Agents Are Here \u2014 Learn How to Deploy on AWS (Hands-On Workshop)",
     "url": "https://www.meetup.com/aws-houston/events/315209050/",
     "location": "Online",
