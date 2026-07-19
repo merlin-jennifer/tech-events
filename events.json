@@ -1,6 +1,32 @@
 [
   {
     "source": "Meetup",
+    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
+    "location": "Online",
+    "dates": "Jul 22, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-07-22 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for North America",
+    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315575690/",
+    "location": "Online",
+    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-22 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Machine Learning_ML Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "AI Agents Are Here \u2014 Learn How to Deploy on AWS (Hands-On Workshop)",
     "url": "https://www.meetup.com/aws-houston/events/315209050/",
     "location": "Online",
@@ -10,32 +36,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Houston Amazon Web Services (AWS) Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Find a Cofounder / Help or Join a Tech Startup",
-    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919791/",
-    "location": "Online",
-    "dates": "Jul 23, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-07-23 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "D.C. Startup Founders & Tech Professionals",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Project and Program Management",
-    "url": "https://www.meetup.com/ai-career-hub/events/315610309/",
-    "location": "Online",
-    "dates": "Jul 24, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-24 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
     "curated": false
   },
   {
