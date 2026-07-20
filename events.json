@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
+    "title": "AI+GPU System Perf Tuning with eBPF and flamegraphs by Israel+Joel @ Zymtrace",
+    "url": "https://www.meetup.com/ai-performance-engineering/events/313234366/",
     "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-07-22 10:30:00",
+    "dates": "Jul 20, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-20 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "AI Performance Engineering Meetup (San Francisco, Global)",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for North America",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315575690/",
+    "title": "CCCCC Bonus Session: Demoing the CRM we built for our $30k MRR AI Agency Startup",
+    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/315718151/",
     "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-22 12:00:00",
+    "dates": "Jul 21, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-21 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Debates&Networking)",
     "curated": false
   },
   {
@@ -36,19 +36,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Houston Amazon Web Services (AWS) Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for MENA Enterprises",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315574888/",
-    "location": "Online",
-    "dates": "Jul 28, 2026 \u00b7 3:00 AM",
-    "sort_date": "2026-07-28 03:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
     "curated": false
   }
 ]
