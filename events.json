@@ -1,15 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Gen AI Paper Reading: Revisiting the Platonic Representation Hypothesis",
-    "url": "https://www.meetup.com/silicon-valley-generative-ai/events/315838816/",
+    "title": "AI + Marketing workshop: Build a Claude Skill",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315375886/",
     "location": "Online",
-    "dates": "Jul 27, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-27 17:30:00",
+    "dates": "Jul 28, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-07-28 16:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Silicon Valley Generative AI ~ The AI Collective Network",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
@@ -53,15 +53,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Hack for LA Civic Tech Volunteer Intro and ONBOARDING (online)",
-    "url": "https://www.meetup.com/hackforla/events/314755358/",
+    "title": "Discussion - Topic: Measuring collaboration quality with coding agents",
+    "url": "https://www.meetup.com/lajugstudygroup/events/315081396/",
     "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-04 18:00:00",
+    "dates": "Aug 04, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-08-04 19:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Hack for LA",
+    "organization": "DevTalk LA",
     "curated": false
   }
 ]
