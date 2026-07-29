@@ -1,45 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI + Marketing workshop: Build a Claude Skill",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315375886/",
-    "location": "Online",
-    "dates": "Jul 28, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-07-28 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315608358/",
-    "location": "Online",
-    "dates": "Jul 28, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-28 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Westside Coding Club",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The AI BluePrint",
-    "url": "https://www.meetup.com/ai-career-hub/events/315720464/",
-    "location": "Online",
-    "dates": "Jul 30, 2026 \u00b7 8:30 AM",
-    "sort_date": "2026-07-30 08:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "Study Group: Evals in AI Systems",
     "url": "https://www.meetup.com/applied-ai-labs/events/315435192/",
     "location": "Online",
@@ -49,19 +10,6 @@
     "themes": [],
     "prize": "",
     "organization": "Applied AI Labs",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Discussion - Topic: Measuring collaboration quality with coding agents",
-    "url": "https://www.meetup.com/lajugstudygroup/events/315081396/",
-    "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-08-04 19:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevTalk LA",
     "curated": false
   }
 ]
