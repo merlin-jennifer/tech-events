@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "Beyond Temperature Zero: Building Deterministic AI Applications",
+    "url": "https://www.meetup.com/technology-ai/events/315680180/",
+    "location": "Online",
+    "dates": "Jul 30, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-07-30 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Study Group: Evals in AI Systems",
     "url": "https://www.meetup.com/applied-ai-labs/events/315435192/",
     "location": "Online",
@@ -10,6 +23,45 @@
     "themes": [],
     "prize": "",
     "organization": "Applied AI Labs",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI on Local Hardware: What Works, What Doesn\u2019t, and Why (Guest Speaker)",
+    "url": "https://www.meetup.com/advanced-ai-concepts-the-triangle/events/315687432/",
+    "location": "Online",
+    "dates": "Aug 01, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-01 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Advanced AI Concepts-The Triangle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The AI BluePrint",
+    "url": "https://www.meetup.com/ai-career-hub/events/315720464/",
+    "location": "Online",
+    "dates": "Aug 06, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-08-06 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Get Fable 5 Quality From Low-Cost AI Models",
+    "url": "https://www.meetup.com/advanced-ai-concepts-the-triangle/events/315614717/",
+    "location": "Online",
+    "dates": "Aug 07, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-07 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Advanced AI Concepts-The Triangle",
     "curated": false
   }
 ]
