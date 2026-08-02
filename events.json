@@ -1,67 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315702371/",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/315695579/",
     "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-04 18:00:00",
+    "dates": "Aug 04, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-04 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Westside Coding Club",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Discussion - Topic: Measuring collaboration quality with coding agents",
-    "url": "https://www.meetup.com/lajugstudygroup/events/315081396/",
-    "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-08-04 19:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevTalk LA",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-sea/events/315715513/",
-    "location": "Online",
-    "dates": "Aug 05, 2026 \u00b7 4:02 PM",
-    "sort_date": "2026-08-05 16:02:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "PyData Seattle OSS AI Lab",
-    "url": "https://www.meetup.com/pydata_seattle/events/315407501/",
-    "location": "Online",
-    "dates": "Aug 06, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-08-06 08:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "PyData Seattle",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Connect - Job and Career Networking for AI Specialists",
-    "url": "https://www.meetup.com/ac-sea/events/315636694/",
-    "location": "Online",
-    "dates": "Aug 14, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-08-14 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
+    "organization": "San Diego Tech Coffee",
     "curated": false
   }
 ]
