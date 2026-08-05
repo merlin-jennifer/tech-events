@@ -1,15 +1,67 @@
 [
   {
     "source": "Meetup",
-    "title": "San Diego Tech Coffee Online",
-    "url": "https://www.meetup.com/sandiego-tech-coffee/events/315695579/",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-atl/events/313188287/",
     "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-04 09:00:00",
+    "dates": "Aug 05, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-08-05 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "San Diego Tech Coffee",
+    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "How to get your Agentic AI on!",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/315715333/",
+    "location": "Online",
+    "dates": "Aug 05, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-05 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Getting over the AI Hump",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Get Fable 5 Quality From Low-Cost AI Models",
+    "url": "https://www.meetup.com/advanced-ai-concepts-the-triangle/events/315614717/",
+    "location": "Online",
+    "dates": "Aug 07, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-07 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Advanced AI Concepts-The Triangle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/315795668/",
+    "location": "Online",
+    "dates": "Aug 11, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-11 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 2 HOUR WEBMINAR | AI POWERED DATA ENGINEERING | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315873992/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-18 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   }
 ]
