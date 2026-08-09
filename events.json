@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/315749134/",
+    "title": "AI Paper Discussion: Kimi Linear",
+    "url": "https://www.meetup.com/code-coffee-philly/events/315971260/",
     "location": "Online",
-    "dates": "Aug 08, 2026 \u00b7 11:00 AM",
-    "sort_date": "2026-08-08 11:00:00",
+    "dates": "Aug 09, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-09 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI News Weekly ( Interactive and Podcast)",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/315551432/",
-    "location": "Online",
-    "dates": "Aug 08, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-08-08 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "Coffee & Code Philly",
     "curated": false
   },
   {
@@ -53,6 +40,32 @@
   },
   {
     "source": "Meetup",
+    "title": "Flushing Tech Bi-weekly Online Workshops",
+    "url": "https://www.meetup.com/flushingtech/events/315836126/",
+    "location": "Online",
+    "dates": "Aug 15, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-15 11:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Flushing Tech",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/315816870/",
+    "location": "Online",
+    "dates": "Aug 15, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-15 11:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Getting over the AI Hump",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "FREE 5-DAY AI POWERED FULL STACK DEVELOPMENT COURSE | AUGUST 2026 | CODING MACAW",
     "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864076/",
     "location": "Online",
@@ -75,6 +88,19 @@
     "themes": [],
     "prize": "",
     "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
+    "url": "https://www.meetup.com/technology-ai/events/316000632/",
+    "location": "Online",
+    "dates": "Aug 21, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-21 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
     "curated": false
   }
 ]
