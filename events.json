@@ -1,6 +1,84 @@
 [
   {
     "source": "Meetup",
+    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
+    "url": "https://www.meetup.com/technology-ai/events/316000632/",
+    "location": "Online",
+    "dates": "Aug 21, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-21 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 5 - DAY CLOUD ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315863177/",
+    "location": "Online",
+    "dates": "Aug 24, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-24 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 5 - DAY AI POWERED DATA ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864146/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-25 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/315826831/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-25 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 5 - DAY LIVE ML OPS BOOTCAMP | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864035/",
+    "location": "Online",
+    "dates": "Aug 26, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-26 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "When AI Agents Work Together: A2A, MCP, and Connected AI",
+    "url": "https://www.meetup.com/nashuaug/events/315794091/",
+    "location": "Online",
+    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-26 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Nashua CLOUD .NET User Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
     "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
     "location": "Online",
@@ -10,6 +88,32 @@
     "themes": [],
     "prize": "",
     "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Complexity Lounge",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "\ud83e\uddf6 Craft-n-Crush Your Coding Interview \ud83d\udda5\ufe0f {BYO Craft Supplies}",
+    "url": "https://www.meetup.com/women-and-gender-expansive-coders-dc-wgxc-dc/events/316201981/",
+    "location": "Online",
+    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-02 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Women and Gender eXpansive Coders DC - WGXC DC",
     "curated": false
   }
 ]
