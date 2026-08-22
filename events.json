@@ -1,15 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
-    "url": "https://www.meetup.com/technology-ai/events/316000632/",
+    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/315816872/",
     "location": "Online",
-    "dates": "Aug 21, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-21 18:00:00",
+    "dates": "Aug 22, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-22 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "technology.ai",
+    "organization": "Getting over the AI Hump",
     "curated": false
   },
   {
@@ -53,6 +53,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Claude + Notion: Your Second Brain, Now AI-Powered",
+    "url": "https://www.meetup.com/above-the-model/events/315936769/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-25 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Above the Model",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "FREE 5 - DAY LIVE ML OPS BOOTCAMP | CODING MACAW",
     "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864035/",
     "location": "Online",
@@ -79,6 +92,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
+    "location": "Online",
+    "dates": "Aug 27, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-27 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
     "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
     "location": "Online",
@@ -101,19 +127,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Complexity Lounge",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "\ud83e\uddf6 Craft-n-Crush Your Coding Interview \ud83d\udda5\ufe0f {BYO Craft Supplies}",
-    "url": "https://www.meetup.com/women-and-gender-expansive-coders-dc-wgxc-dc/events/316201981/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-02 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Women and Gender eXpansive Coders DC - WGXC DC",
     "curated": false
   }
 ]
