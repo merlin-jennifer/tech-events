@@ -1,15 +1,41 @@
 [
   {
     "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
-    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
+    "title": "Lunch and Learn: Vibe Coding for Business Users \u2014 Build Real Web Apps with AI",
+    "url": "https://www.meetup.com/all-things-ai-live/events/316064371/",
     "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-28 10:00:00",
+    "dates": "Aug 25, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-08-25 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Career Hub!",
+    "organization": "All Things AI (Live)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
+    "location": "Online",
+    "dates": "Aug 27, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-27 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Complexity Lounge",
     "curated": false
   }
 ]
