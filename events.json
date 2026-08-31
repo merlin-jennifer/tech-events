@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Welcome to the Machine Learning Study Group #55",
-    "url": "https://www.meetup.com/study-machine-learning/events/316092163/",
+    "title": "AI for Business & Marketing: Build workflows that move your business forward",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
     "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-01 16:00:00",
+    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-03 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Study Machine Learning",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315981919/",
+    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
     "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-01 18:00:00",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Westside Coding Club",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
     "curated": false
   }
 ]
