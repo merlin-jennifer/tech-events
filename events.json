@@ -1,41 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Roundtable: Is AI Making You More Productive?",
-    "url": "https://www.meetup.com/indy-net-consortium/events/313039840/",
+    "title": "AI Medical Diagnostics",
+    "url": "https://www.meetup.com/licn-long-island-consultants-network/events/315992720/",
     "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-02 18:30:00",
+    "dates": "Sep 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-03 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Indy .NET Consortium",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "How to get your Agentic AI on!",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/315816921/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-02 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Becoming a Frontier Firm with Microsoft AI",
-    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/316310541/",
-    "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Data & AI and App Development Meetup",
+    "organization": "IEEE Consultants Network of Long Island (LICN)",
     "curated": false
   },
   {
