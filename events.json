@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
-    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
+    "title": "Secure and Govern Agents, MCP Servers, and AI Tools with AI Gateway",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315795272/",
     "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-08 12:00:00",
+    "dates": "Sep 08, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-09-08 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "All Things AI (Live)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
-    "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "Microsoft Reactor Redmond",
     "curated": false
   }
 ]
