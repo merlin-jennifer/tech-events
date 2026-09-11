@@ -1,15 +1,54 @@
 [
   {
     "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
+    "title": "Tech Talk Replay | How AI Can Help You Land A Job and Increase Your Learning",
+    "url": "https://www.meetup.com/techacademy/events/316458961/",
     "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
+    "dates": "Sep 11, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-09-11 13:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "The Tech Academy",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/316435834/",
+    "location": "Online",
+    "dates": "Sep 11, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-11 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Westside Coding Club",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Copilot, Microsoft 365 & Power Platform product updates call",
+    "url": "https://www.meetup.com/global-microsoft-365-dev-meetup/events/316496810/",
+    "location": "Online",
+    "dates": "Sep 15, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-15 08:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Global Microsoft 365 & Power Platform Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
+    "url": "https://www.meetup.com/humansoulai/events/315796740/",
+    "location": "Online",
+    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
     "curated": false
   }
 ]
