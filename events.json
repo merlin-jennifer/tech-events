@@ -1,32 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "[Paid] AI Workshop: Modern video creation for beginners and intermediate users",
-    "url": "https://www.meetup.com/rtai2025/events/316268502/",
-    "location": "Online",
-    "dates": "Sep 12, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-09-12 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Research Triangle AI (RTAI)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Community AI Research Network",
-    "url": "https://www.meetup.com/dmv-ai-solutions-collabaorative/events/315641070/",
-    "location": "Online",
-    "dates": "Sep 12, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-09-12 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Community AI Research Network (CAIRN)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
     "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
     "location": "Online",
@@ -40,15 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316490672/",
+    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
+    "url": "https://www.meetup.com/humansoulai/events/315796740/",
     "location": "Online",
-    "dates": "Sep 22, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-22 18:30:00",
+    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "HumanSoulAI",
     "curated": false
   }
 ]
