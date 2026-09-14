@@ -1,19 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
-    "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
     "url": "https://www.meetup.com/humansoulai/events/315796740/",
     "location": "Online",
@@ -23,6 +10,32 @@
     "themes": [],
     "prize": "",
     "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Office Hours: Ask, Learn, Build - Document processing with AI + PowerAutomate",
+    "url": "https://www.meetup.com/technology-ai/events/316513205/",
+    "location": "Online",
+    "dates": "Sep 18, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-18 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for business operations: Save time, make decisions, and streamline work",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315279498/",
+    "location": "Online",
+    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-06 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   }
 ]
