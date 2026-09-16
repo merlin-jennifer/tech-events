@@ -1,41 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
-    "url": "https://www.meetup.com/humansoulai/events/315796740/",
+    "title": "Harness Engineering: What Actually Runs Your AI Agent",
+    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316374289/",
     "location": "Online",
-    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-15 19:00:00",
+    "dates": "Sep 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-17 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "HumanSoulAI",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Virtual: Shift-Left Performance Engineering for Agentic AI with CI/CD",
-    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316504719/",
-    "location": "Online",
-    "dates": "Sep 23, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-09-23 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Innovate QA Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI for business operations: Save time, make decisions, and streamline work",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315279498/",
-    "location": "Online",
-    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-06 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
+    "organization": "Charlotte Artificial Intelligence Meetup Group",
     "curated": false
   }
 ]
