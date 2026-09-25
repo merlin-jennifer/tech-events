@@ -1,32 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "Beyond RAG: Building an Evaluated, Self-Improving Agentic AI System",
-    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316504446/",
-    "location": "Online",
-    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-24 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Charlotte Artificial Intelligence Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Find a Cofounder / Help or Join a Tech Startup",
-    "url": "https://www.meetup.com/dc-startup-cofounders/events/314897746/",
-    "location": "Online",
-    "dates": "Sep 24, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-09-24 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "D.C. Startup Founders & Tech Professionals",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "Developer Discussion Night (AI, Tools, Trends & More)",
     "url": "https://www.meetup.com/codentalk/events/316490680/",
     "location": "Online",
@@ -58,6 +32,19 @@
     "location": "Online",
     "dates": "Oct 07, 2026 \u00b7 7:00 PM",
     "sort_date": "2026-10-07 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-08 10:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
