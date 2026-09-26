@@ -1,54 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316490680/",
+    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
+    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
     "location": "Online",
-    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-06 18:30:00",
+    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-30 08:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/315927621/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-07 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-07 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "Agentic AI Context Builders",
     "curated": false
   }
 ]
