@@ -1,6 +1,19 @@
 [
   {
     "source": "Meetup",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316485252/",
+    "location": "Online",
+    "dates": "Sep 29, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-29 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Diego Tech Coffee",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
     "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
     "location": "Online",
