@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "source": "Meetup",
+    "title": "How Quantum AI Will Transform Cybersecurity",
+    "url": "https://www.meetup.com/licn-long-island-consultants-network/events/315245247/",
+    "location": "Online",
+    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-01 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "IEEE Consultants Network of Long Island (LICN)",
+    "curated": false
+  }
+]
