@@ -1,15 +1,54 @@
 [
   {
     "source": "Meetup",
-    "title": "How Quantum AI Will Transform Cybersecurity",
-    "url": "https://www.meetup.com/licn-long-island-consultants-network/events/315245247/",
+    "title": "Agile Coaching in the Age of AI with Bob Galen",
+    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/316556329/",
     "location": "Online",
-    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-01 19:00:00",
+    "dates": "Oct 05, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-05 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "IEEE Consultants Network of Long Island (LICN)",
+    "organization": "Scrum Masters of the Universe",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
+    "location": "Online",
+    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-07 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-08 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI This Week: Open Circle",
+    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-08 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "New Jersey Artificial Intelligence Meetup Group",
     "curated": false
   }
 ]
