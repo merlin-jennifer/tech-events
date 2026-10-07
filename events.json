@@ -1,15 +1,406 @@
 [
   {
-    "source": "Meetup",
-    "title": "I Didn't Become an AI Expert. I Became a Beginner Again.",
-    "url": "https://www.meetup.com/agilertp/events/316281928/",
+    "source": "Devpost",
+    "title": "2026 International CodeTheCure Hackathon",
+    "url": "https://codethecure-hackathon-26.devpost.com/",
     "location": "Online",
-    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-06 18:30:00",
+    "dates": "Oct 10 - 28, 2026",
+    "sort_date": "2026-10-10 00:00:00",
     "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Agile RTP (ARTp)",
+    "themes": [
+      "Beginner Friendly",
+      "Education",
+      "Health"
+    ],
+    "prize": "$0",
+    "organization": "CodeTheCure",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "EvoHacks2026",
+    "url": "https://evohackathon2026.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 10 - 11, 2026",
+    "sort_date": "2026-10-10 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Machine Learning/AI"
+    ],
+    "prize": "$0",
+    "organization": "EvoHacks",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Neeley AI Forward: AI Innovation Competition",
+    "url": "https://neeley-ai-forward.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 16 - 18, 2026",
+    "sort_date": "2026-10-16 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Education",
+      "Machine Learning/AI"
+    ],
+    "prize": "$0",
+    "organization": "Texas Christian University",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Lehigh Fall 2026 Collegiate Hackathon",
+    "url": "https://lehigh-hacks.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 17 - 18, 2026",
+    "sort_date": "2026-10-17 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Productivity",
+      "Social Good"
+    ],
+    "prize": "$0",
+    "organization": "CSBA",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "The Top 500 (UH v2)",
+    "url": "https://the-top-500-uh-v2.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 23 - 25, 2026",
+    "sort_date": "2026-10-23 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Low/No Code",
+      "Open Ended",
+      "Social Good"
+    ],
+    "prize": "$0",
+    "organization": "noclue",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Learn to Hack: MATLAB Edition 2026",
+    "url": "https://ntu-matlab-2026.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 30, 2026",
+    "sort_date": "2026-10-30 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Education",
+      "Machine Learning/AI"
+    ],
+    "prize": "$0",
+    "organization": "CCEB ANATA",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "STEMergent Hacks 2026",
+    "url": "https://stemergent-hacks.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 31 - Nov 15, 2026",
+    "sort_date": "2026-10-31 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "prize": "$0",
+    "organization": "STEMergent",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "YUNet AIgnite 2026",
+    "url": "https://yunet-aignite26.devpost.com/",
+    "location": "Online",
+    "dates": "Nov 01 - 05, 2026",
+    "sort_date": "2026-11-01 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Education",
+      "Low/No Code",
+      "Machine Learning/AI"
+    ],
+    "prize": "$0",
+    "organization": "Youth Upskill Network - YUNet",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "AI Agents for Founders Challenge \u2014 HETIC 2026",
+    "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "location": "Online",
+    "dates": "Nov 04 - Dec 18, 2026",
+    "sort_date": "2026-11-04 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Productivity"
+    ],
+    "prize": "\u20ac997",
+    "organization": "HETIC",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Cosmo Hacks",
+    "url": "https://cosmohacks.devpost.com/",
+    "location": "Online",
+    "dates": "Dec 18 - 21, 2026",
+    "sort_date": "2026-12-18 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Education"
+    ],
+    "prize": "$142,605",
+    "organization": "Cosmo Hacks",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "evensonarisnord",
+    "url": "https://evensonarisnord.devpost.com/",
+    "location": "Online",
+    "dates": "Dec 31, 2026",
+    "sort_date": "2026-12-31 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Communication",
+      "Databases"
+    ],
+    "prize": "$150",
+    "organization": "HoustonHacks2026",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "MCA 2026 projects",
+    "url": "https://mca-2026-projects.devpost.com/",
+    "location": "Online",
+    "dates": "Feb 27 - Dec 25, 2026",
+    "sort_date": "2026-02-27 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly"
+    ],
+    "prize": "$0",
+    "organization": "Mizzou Computing Association",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "DSH Hacks V2 ($100k+ in prizes!)",
+    "url": "https://dsh-hacks-v2.devpost.com/",
+    "location": "Online",
+    "dates": "Jun 24 - Nov 15, 2026",
+    "sort_date": "2026-06-24 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Open Ended"
+    ],
+    "prize": "$0",
+    "organization": "STEMise",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Next Founders Hackathon",
+    "url": "https://next-founders.devpost.com/",
+    "location": "Online",
+    "dates": "Aug 16 - Oct 15, 2026",
+    "sort_date": "2026-08-16 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Open Ended"
+    ],
+    "prize": "$275",
+    "organization": "Student Organization",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Graphiques Innovation Challenge",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "location": "Online",
+    "dates": "Aug 21 - Oct 10, 2026",
+    "sort_date": "2026-08-21 00:00:00",
+    "state": "open",
+    "themes": [
+      "Enterprise",
+      "Fintech",
+      "Productivity"
+    ],
+    "prize": "$0",
+    "organization": "Hack Club",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+    "url": "https://aws-cds-partner.devpost.com/",
+    "location": "Online",
+    "dates": "Sep 14 - Oct 28, 2026",
+    "sort_date": "2026-09-14 00:00:00",
+    "state": "open",
+    "themes": [
+      "Communication",
+      "Mobile",
+      "Machine Learning/AI"
+    ],
+    "prize": "$40,000",
+    "organization": "AWS",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "CodeSprint by Elite Coders",
+    "url": "https://codesprint-by-elitecoders.devpost.com/",
+    "location": "Online",
+    "dates": "Sep 25 - Oct 15, 2026",
+    "sort_date": "2026-09-25 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Web"
+    ],
+    "prize": "\u20b9 30,000",
+    "organization": "elite coders",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "WarriorHacks 2.0",
+    "url": "https://warriorhacks-2-0.devpost.com/",
+    "location": "Online",
+    "dates": "Sep 28 - Oct 14, 2026",
+    "sort_date": "2026-09-28 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "prize": "$0",
+    "organization": "Westwood Computer Science Club",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+    "location": "Online",
+    "dates": "Sep 29 - Nov 02, 2026",
+    "sort_date": "2026-09-29 00:00:00",
+    "state": "open",
+    "themes": [
+      "AR/VR",
+      "E-commerce/Retail",
+      "Machine Learning/AI"
+    ],
+    "prize": "$6,000",
+    "organization": "Perfect Corp",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "AIC Internal Competition -2026 (Agentic AI)",
+    "url": "https://aic-ic-2026.devpost.com/",
+    "location": "Online",
+    "dates": "Sep 30 - Oct 12, 2026",
+    "sort_date": "2026-09-30 00:00:00",
+    "state": "open",
+    "themes": [
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "prize": "$0",
+    "organization": "AI Community @ SBU",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "ImpactHack 2026",
+    "url": "https://impacthack26.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 01 - 08, 2026",
+    "sort_date": "2026-10-01 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "prize": "$0",
+    "organization": "GIS Engineering Club",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "PayPal AI Hackathon",
+    "url": "https://paypalaihackathon.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 01 - Nov 12, 2026",
+    "sort_date": "2026-10-01 00:00:00",
+    "state": "open",
+    "themes": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "prize": "$67,500",
+    "organization": "PayPal",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "InternWell Hack2.0",
+    "url": "https://interwell-hack2-0.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 03 - 31, 2026",
+    "sort_date": "2026-10-03 00:00:00",
+    "state": "open",
+    "themes": [
+      "Communication",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "prize": "\u20b9 1,000",
+    "organization": "InternWell-SLIET",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Next Byte Hacks V5",
+    "url": "https://next-byte-hacks-v5.devpost.com/",
+    "location": "Online",
+    "dates": "Oct 06 - 31, 2026",
+    "sort_date": "2026-10-06 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Open Ended"
+    ],
+    "prize": "$100",
+    "organization": "Next Byte Hacks",
     "curated": false
   }
 ]
