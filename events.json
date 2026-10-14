@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "source": "Meetup",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Oct 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-17 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Office Hours",
+    "curated": false
+  }
+]
