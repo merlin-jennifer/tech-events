@@ -1,6 +1,32 @@
 [
   {
     "source": "Meetup",
+    "title": "Intro to MCP - Model Context Protocol for AI Tool Use",
+    "url": "https://www.meetup.com/eli-the-computer-guy/events/316963474/",
+    "location": "Online",
+    "dates": "Oct 16, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-16 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Eli the Computer Guy",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "\ud83d\ude80 What\u2019s New in ChatGPT: The Latest Upgrades, Tools & AI Agents",
+    "url": "https://www.meetup.com/atlanta-ai-builders/events/316138852/",
+    "location": "Online",
+    "dates": "Oct 17, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-17 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Atlanta AI Builders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Let's talk AI",
     "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
     "location": "Online",
@@ -14,15 +40,41 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493340/",
+    "title": "Airtable, Supabase, JSON DBs for Vibe Coding Web Apps",
+    "url": "https://www.meetup.com/tampa-artificial-intelligence-applications-meetup-group/events/316691144/",
     "location": "Online",
-    "dates": "Oct 20, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-20 18:30:00",
+    "dates": "Oct 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "Tampa AI Applications Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Doomsday: Job Layoffs & Surviving the AI Apocalypse",
+    "url": "https://www.meetup.com/humansoulai/events/316560589/",
+    "location": "Online",
+    "dates": "Oct 20, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-20 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Unstoppable Fabric: Deep Dive into Scalable, AI-Ready Spark in Microsoft Fabric",
+    "url": "https://www.meetup.com/tripass/events/316880028/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Triangle SQL Server User Group",
     "curated": false
   }
 ]
