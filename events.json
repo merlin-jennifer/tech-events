@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Introducing Kobo: A Modern, AI-Conscious Programming Language for .NET",
-    "url": "https://www.meetup.com/technology-ai/events/316991403/",
+    "title": "Precision Pitch Practice (RECURRING)",
+    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
     "location": "Online",
-    "dates": "Oct 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-23 18:00:00",
+    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-29 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "technology.ai",
+    "organization": "Boston New Technology (BNT)",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "#CertOps: Clase #10 - Servicios de Machine Learning e IA",
-    "url": "https://www.meetup.com/aws-sbg-at-national-autonomous-univ-of-mexico-central-campus/events/317027466/",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493341/",
     "location": "Online",
-    "dates": "Oct 24, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-24 12:00:00",
+    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-03 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AWS SBG at  National Autonomous University of Mexico",
+    "organization": "TalknCode",
     "curated": false
   }
 ]
