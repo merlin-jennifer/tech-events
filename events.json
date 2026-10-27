@@ -1,41 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Precision Pitch Practice (RECURRING)",
-    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
+    "title": "AI Book Club: Grokking Deep Reinforcement Learning",
+    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316684899/",
     "location": "Online",
-    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-29 12:00:00",
+    "dates": "Oct 27, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-10-27 13:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Boston New Technology (BNT)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493341/",
-    "location": "Online",
-    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-03 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-yyz/events/316878190/",
-    "location": "Online",
-    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-04 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
+    "organization": "AI Builders and Learners SF",
     "curated": false
   }
 ]
