@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "source": "Meetup",
+    "title": "OSA CON 2026: The Anti-Hype Conference for Open Source Analytics and AI",
+    "url": "https://www.meetup.com/real-time-analytics-and-ai/events/316657797/",
+    "location": "Online",
+    "dates": "Nov 02, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-11-02 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Real Time Data Lakes and AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Wrote it.  Who tested it?",
+    "url": "https://www.meetup.com/software-quality-assurance/events/316977725/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-11-03 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Software Testing",
+    "curated": false
+  }
+]
