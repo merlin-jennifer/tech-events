@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Accelerating Playwright Migration with AI and Automated Visibility",
-    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316733486/",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-yyz/events/316878190/",
     "location": "Online",
-    "dates": "Nov 04, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-11-04 09:00:00",
+    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-04 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Innovate QA Meetup Group",
+    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "The Agile Credibility Crisis: Reclaiming the Scrum Master with AI Agents",
-    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/317060536/",
+    "title": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "url": "https://www.meetup.com/ac-yyz/events/316722210/",
     "location": "Online",
-    "dates": "Nov 11, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-11-11 12:00:00",
+    "dates": "Nov 06, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-11-06 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Scrum Masters of the Universe",
+    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
     "curated": false
   }
 ]
