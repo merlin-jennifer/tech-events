@@ -1,6 +1,32 @@
 [
   {
     "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493341/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-03 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI COMMUNITY NIGHT - Tuesdays @7pm (FREE|Remote) - a group-led event",
+    "url": "https://www.meetup.com/ai-growth-circle/events/317016371/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-03 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Growth Circle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
     "url": "https://www.meetup.com/ac-yyz/events/316878190/",
     "location": "Online",
@@ -14,15 +40,28 @@
   },
   {
     "source": "Meetup",
-    "title": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "url": "https://www.meetup.com/ac-yyz/events/316722210/",
+    "title": "FREE REMOTE | AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
+    "url": "https://www.meetup.com/ai-growth-circle/events/315939837/",
     "location": "Online",
-    "dates": "Nov 06, 2026 \u00b7 11:00 AM",
-    "sort_date": "2026-11-06 11:00:00",
+    "dates": "Nov 05, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-05 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
+    "organization": "AI Growth Circle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
+    "url": "https://www.meetup.com/technology-ai/events/317154857/",
+    "location": "Online",
+    "dates": "Nov 05, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-11-05 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
     "curated": false
   }
 ]
