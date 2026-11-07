@@ -1,19 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI Connect - Job and Career Networking for AI Specialists",
-    "url": "https://www.meetup.com/ac-sea/events/317123953/",
-    "location": "Online",
-    "dates": "Nov 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-11-13 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "Computer Networking for AI Introduction",
     "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
     "location": "Online",
@@ -27,28 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847246/",
+    "title": "How AI Can Enhance Survey Research",
+    "url": "https://www.meetup.com/pydatachi/events/317159634/",
     "location": "Online",
-    "dates": "Nov 14, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-14 10:30:00",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Ubuntu TechHive North America",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI product photography studio: Create better business images with AI",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315402861/",
-    "location": "Online",
-    "dates": "Nov 21, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-21 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
+    "organization": "PyData Chicago",
     "curated": false
   }
 ]
