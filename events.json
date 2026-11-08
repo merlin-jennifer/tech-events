@@ -1,28 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "Computer Networking for AI Introduction",
-    "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
+    "title": "AI Agent Escape: Hugging Face Warning Shot",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317264924/",
     "location": "Online",
-    "dates": "Nov 13, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-11-13 15:00:00",
+    "dates": "Nov 09, 2026 \u00b7 11:30 AM",
+    "sort_date": "2026-11-09 11:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Eli the Computer Guy",
+    "organization": "AI Safety Awareness Group Seattle",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "How AI Can Enhance Survey Research",
-    "url": "https://www.meetup.com/pydatachi/events/317159634/",
+    "title": "Ask Aaron Anything! Your AI Questions Answered",
+    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
     "location": "Online",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
+    "dates": "Nov 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-11-17 14:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "PyData Chicago",
+    "organization": "Artificial Intelligence Trailblazers",
     "curated": false
   }
 ]
