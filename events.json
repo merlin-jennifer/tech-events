@@ -1,28 +1,41 @@
 [
   {
     "source": "Meetup",
-    "title": "AI Agent Escape: Hugging Face Warning Shot",
-    "url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317264924/",
+    "title": "The Data Behind Agents: Building Intelligent, Safe, AI Systems",
+    "url": "https://www.meetup.com/north-seattle-tech-talks/events/315764530/",
     "location": "Online",
-    "dates": "Nov 09, 2026 \u00b7 11:30 AM",
-    "sort_date": "2026-11-09 11:30:00",
+    "dates": "Nov 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-09 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Safety Awareness Group Seattle",
+    "organization": "North Seattle Tech Talks",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Ask Aaron Anything! Your AI Questions Answered",
-    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
+    "title": "AI Book Club: Reinforcement Learning from Human Feedback (RLHF)",
+    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316685013/",
     "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-11-17 14:00:00",
+    "dates": "Nov 10, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-11-10 13:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Artificial Intelligence Trailblazers",
+    "organization": "AI Builders and Learners SF",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/317083382/",
+    "location": "Online",
+    "dates": "Nov 10, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-10 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Westside Coding Club",
     "curated": false
   }
 ]
