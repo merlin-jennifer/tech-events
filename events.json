@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "The Data Behind Agents: Building Intelligent, Safe, AI Systems",
-    "url": "https://www.meetup.com/north-seattle-tech-talks/events/315764530/",
+    "title": "How to evaluate or test the  product powered by large language models",
+    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316681908/",
     "location": "Online",
-    "dates": "Nov 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-09 17:30:00",
+    "dates": "Nov 10, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-10 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "North Seattle Tech Talks",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Book Club: Reinforcement Learning from Human Feedback (RLHF)",
-    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316685013/",
-    "location": "Online",
-    "dates": "Nov 10, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-11-10 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Builders and Learners SF",
+    "organization": "Innovate QA Meetup Group",
     "curated": false
   },
   {
