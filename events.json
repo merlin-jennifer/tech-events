@@ -1,41 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493342/",
+    "title": "AI-Ready Infrastructure: Cisco Insights for Networks & Data Centers | Free",
+    "url": "https://www.meetup.com/texas-information-technology-meetup-group/events/317299162/",
     "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-17 18:30:00",
+    "dates": "Nov 18, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-11-18 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/newjerseyaigroup/events/317371680/",
-    "location": "Online",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "New Jersey Artificial Intelligence Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
-    "url": "https://www.meetup.com/ai-growth-circle/events/315939839/",
-    "location": "Online",
-    "dates": "Nov 19, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-19 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Growth Circle",
+    "organization": "Texas Information Technology Meetup Group",
     "curated": false
   }
 ]
