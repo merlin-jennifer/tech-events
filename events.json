@@ -1,54 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Introducing Kobo: A Modern, AI-Conscious Programming Language for .NET",
-    "url": "https://www.meetup.com/technology-ai/events/317465551/",
+    "title": "AI for Developers: Productivity, Building, and Dev Setup",
+    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
     "location": "Online",
-    "dates": "Nov 25, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-11-25 15:00:00",
+    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-11-28 10:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "technology.ai",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "\u2600\ufe0f   MetaVerse Developer Workshop   \u2600\ufe0f",
-    "url": "https://www.meetup.com/ethbuilders-raleigh/events/317305442/",
-    "location": "Online",
-    "dates": "Nov 25, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-25 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "EthBuilders.Raleigh",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "How to get your Agentic AI on!",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/316871273/",
-    "location": "Online",
-    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-25 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI COMMUNITY NIGHT - Tuesdays @7pm (FREE|Remote) - a group-led event",
-    "url": "https://www.meetup.com/ai-growth-circle/events/317016384/",
-    "location": "Online",
-    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-12-01 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Growth Circle",
+    "organization": "The Ubuntu TechHive North America",
     "curated": false
   },
   {
@@ -62,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Above the Model",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Build Self-Improving AI Agents: Turn Failing Traces Into Higher pass@k",
+    "url": "https://www.meetup.com/data-science-dojo-washington-dc/events/317504551/",
+    "location": "Online",
+    "dates": "Dec 02, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-12-02 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data Science Dojo - DC",
     "curated": false
   },
   {
