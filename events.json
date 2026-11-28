@@ -1,19 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
-    "location": "Online",
-    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-28 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ubuntu TechHive North America",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "Claude Cowork: What AI Agent Skills Are + How to Customize Them",
     "url": "https://www.meetup.com/above-the-model/events/316684583/",
     "location": "Online",
@@ -23,19 +10,6 @@
     "themes": [],
     "prize": "",
     "organization": "Above the Model",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Let's talk AI",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
-    "location": "Online",
-    "dates": "Dec 19, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-12-19 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
     "curated": false
   }
 ]
